@@ -1,0 +1,4 @@
+<div class="button">
+<a class="btn js-ripple" href="#" rel="nofollow" target="_blank"><i aria-hidden="true" class="mdi mdi-download"></i> Download</a><br>
+<br>
+<a class="btn js-ripple" href="#" rel="nofollow" target="_blank"><i aria-hidden="true" class="mdi mdi-eye"></i> Demo</a></div>
